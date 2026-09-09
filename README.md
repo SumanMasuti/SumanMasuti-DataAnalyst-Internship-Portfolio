@@ -36,8 +36,8 @@ Navigate to individual task sub-repositories below:
 The final presentation deck summarizes core metrics, statistical findings, customer segments, and actionable business recommendations.
 
 * 📄 **File Location:** 
-  * [Presentation (PDF)](./Final%20Presentation/Customer%20Segmentation%20%26%20Revenue%20Drivers%20Mine.pdf)
-  * [Presentation (PPTX)](./Final%20Presentation/Customer%20Segmentation%20%26%20Revenue%20Drivers%20Mine.pptx)
+  * [Presentation (PDF)](./Customer%20Segmentation%20%26%20Revenue%20Drivers%20Mine.pdf)
+  * [Presentation (PPTX)](./Customer%20Segmentation%20%26%20Revenue%20Drivers%20Mine.pptx)
 * 💡 **Key Presentation Highlights:**
   * **Core Problem & Dataset:** Analyzed 1,000 transactions generating **₹13.94 Cr** in total gross revenue with an Average Order Value (AOV) of **₹139.40K**.
   * **Product Category Performance:** Electronics (**₹50.78M**) and Education (**₹25.03M**) drive over 51% of total top-line gross revenue.
