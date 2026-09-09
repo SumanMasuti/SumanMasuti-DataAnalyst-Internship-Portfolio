@@ -1,4 +1,4 @@
-# SumanMasuti-DataAnalyst-Internship-Portfolio.
+# SumanMasuti-DataAnalyst-Internship-Portfolio
 
 # 📊 Data Analyst Internship Portfolio — Master Project Homepage
 
