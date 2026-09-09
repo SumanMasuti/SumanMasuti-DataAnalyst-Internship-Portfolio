@@ -49,6 +49,12 @@ The final presentation deck summarizes core metrics, statistical findings, custo
 
 ---
 
+## 📊 Data Analyst Internship Portfolio — Master Project Homepage
+
+🌐 **Live Interactive Portfolio Website:** [View Live Web Version](https://SumanMasuti.github.io/SumanMasuti-DataAnalyst-Internship-Portfolio/)
+
+---
+
 ## 🛠️ Technical Skills & Key Learnings
 
 ### Technical Stack & Tools
@@ -56,12 +62,6 @@ The final presentation deck summarizes core metrics, statistical findings, custo
 * **Business Intelligence:** Power BI / Tableau (Interactive Dashboards, DAX, Filtering Controls)
 * **Version Control:** Git & GitHub (Structured repository management, clean documentation)
 * **Data Analytics:** Missing value imputation, datetime standardization, categorical binning, outlier detection, hypothesis testing, and customer segmentation
-
---
-
-# 📊 Data Analyst Internship Portfolio — Master Project Homepage
-
-🌐 **Live Interactive Portfolio Website:** [View Live Web Version](https://SumanMasuti.github.io/SumanMasuti-DataAnalyst-Internship-Portfolio/)
 
 ---
 
