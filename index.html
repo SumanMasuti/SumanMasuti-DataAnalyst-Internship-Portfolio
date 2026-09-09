@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Suman Masuti | Data Analytics Portfolio</title>
+    <style>
+        :root {
+            --primary: #0f172a;
+            --accent: #2563eb;
+            --bg: #f8fafc;
+            --card-bg: #ffffff;
+            --text: #334155;
+            --border: #e2e8f0;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background-color: var(--bg);
+            color: var(--text);
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+        header {
+            background-color: var(--primary);
+            color: white;
+            padding: 3rem 1.5rem;
+            text-align: center;
+        }
+        header h1 { margin: 0; font-size: 2.2rem; }
+        header p { color: #94a3b8; font-size: 1.1rem; margin-top: 0.5rem; }
+        .container {
+            max-width: 900px;
+            margin: 2rem auto;
+            padding: 0 1.5rem;
+        }
+        .card {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            padding: 1.8rem;
+            margin-bottom: 1.5rem;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+        }
+        h2 { color: var(--primary); margin-top: 0; font-size: 1.4rem; }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 1.2rem;
+            margin-top: 1rem;
+        }
+        .task-card {
+            background: #f1f5f9;
+            padding: 1.2rem;
+            border-radius: 8px;
+            border-left: 4px solid var(--accent);
+        }
+        .task-card h3 { margin-top: 0; margin-bottom: 0.5rem; font-size: 1.1rem; }
+        .btn {
+            display: inline-block;
+            background: var(--accent);
+            color: white;
+            padding: 0.6rem 1.2rem;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: 600;
+            margin-right: 0.5rem;
+            margin-top: 0.8rem;
+            font-size: 0.95rem;
+        }
+        .btn:hover { background: #1d4ed8; }
+        .btn-outline {
+            background: transparent;
+            color: var(--accent);
+            border: 1px solid var(--accent);
+        }
+        .btn-outline:hover {
+            background: #eff6ff;
+        }
+        ul { padding-left: 1.2rem; }
+        li { margin-bottom: 0.5rem; }
+        footer { text-align: center; padding: 2rem; color: #64748b; font-size: 0.9rem; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Suman Masuti | Data Analytics Portfolio</h1>
+        <p>Apex Planet Internship — End-to-End Analytics, EDA, Dashboards & Customer Segmentation</p>
+    </header>
+
+    <div class="container">
+        
+        <!-- Presentation Section -->
+        <div class="card">
+            <h2>📽️ Executive Presentation Deck</h2>
+            <p>Customer Segmentation & Revenue Drivers analysis covering 1,000 transactions (₹13.94 Cr gross revenue).</p>
+            <a href="./Customer%20Segmentation%20%26%20Revenue%20Drivers%20Mine.pdf" class="btn" target="_blank">📄 View PDF Presentation</a>
+            <a href="./Customer%20Segmentation%20%26%20Revenue%20Drivers%20Mine.pptx" class="btn btn-outline" target="_blank">📊 Download PPTX</a>
+        </div>
+
+        <!-- Task Sub-Repositories Section -->
+        <div class="card">
+            <h2>📌 Completed Tasks & Sub-Repositories</h2>
+            <div class="grid">
+                <div class="task-card">
+                    <h3>Task 1: Data Wrangling</h3>
+                    <p>Missing value imputation, cleaning raw data, and creating Age_Group features.</p>
+                    <a href="https://github.com/SumanMasuti/ApexPlanet-DataAnalytics-Internship" class="btn" target="_blank">View Code →</a>
+                </div>
+                <div class="task-card">
+                    <h3>Task 2: EDA & BI</h3>
+                    <p>Univariate/bivariate visualizations & revenue distribution analysis across categories.</p>
+                    <a href="https://github.com/SumanMasuti/Apex-Planet-DataAnalytics-Internship-Task2" class="btn" target="_blank">View Code →</a>
+                </div>
+                <div class="task-card">
+                    <h3>Task 3: Power BI Dashboard</h3>
+                    <p>Interactive dashboarding, drill-downs, and cross-functional KPI tracking.</p>
+                    <a href="https://github.com/SumanMasuti/Apex-Planet-DataAnalytics-Internship-Task3" class="btn" target="_blank">View Code →</a>
+                </div>
+                <div class="task-card">
+                    <h3>Task 4: Statistical Testing</h3>
+                    <p>T-tests on High-Value Champions and Chi-Square tests across geographic regions.</p>
+                    <a href="https://github.com/SumanMasuti/Apex-Planet-Internship-Task4" class="btn" target="_blank">View Code →</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Key Skills Section -->
+        <div class="card">
+            <h2>🛠️ Technical Skills & Methodologies</h2>
+            <ul>
+                <li><strong>Programming & Tools:</strong> Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy), Power BI, Git, GitHub</li>
+                <li><strong>Core Analytical Focus:</strong> Customer Segmentation (Pareto 80/20 Rule), Statistical Hypothesis Testing, Data Wrangling, Executive Storytelling</li>
+            </ul>
+        </div>
+
+    </div>
+
+    <footer>
+        <p>© Suman Masuti | Hosted on GitHub Pages</p>
+    </footer>
+
+</body>
+</html>
