@@ -57,6 +57,14 @@ The final presentation deck summarizes core metrics, statistical findings, custo
 * **Version Control:** Git & GitHub (Structured repository management, clean documentation)
 * **Data Analytics:** Missing value imputation, datetime standardization, categorical binning, outlier detection, hypothesis testing, and customer segmentation
 
+--
+
+# 📊 Data Analyst Internship Portfolio — Master Project Homepage
+
+🌐 **Live Interactive Portfolio Website:** [View Live Web Version](https://SumanMasuti.github.io/SumanMasuti-DataAnalyst-Internship-Portfolio/)
+
+---
+
 ### Prerequisites & Local Installation
 
 To run any script locally, clone the repository and install the dependencies:
